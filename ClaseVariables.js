@@ -4,7 +4,7 @@
 // Cadena de caracteres 
 
 var firstName = 'Jefferson';
-console.log('Bienvenido ,', firstName);
+console.log('Bienvenido,', firstName);
 
 // También puede ser una cadena extensa
 
